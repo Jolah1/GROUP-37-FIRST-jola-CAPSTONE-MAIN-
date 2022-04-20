@@ -1,3 +1,40 @@
 /* fonts to use */
 /* font-family: 'Open Sans', sans-serif;
 font-family: 'Raleway', sans-serif; */
+
+body{
+    background-color: hsl(218, 28%, 13%);   
+    color: hsl(0, 0%, 100%);
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+/* nav bar section */ 
+.menu-section{
+    display: flex;
+    padding: 3.5rem 3rem;
+    justify-content: space-between;
+}
+
+a{
+    color: hsl(0, 0%, 100%);
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-bar ul li {
+    display: inline-block;
+    margin-left: 1rem;
+}
+
+a:hover {
+    color: hsl(176, 68%, 64%);
+    transition: 500ms;
+}

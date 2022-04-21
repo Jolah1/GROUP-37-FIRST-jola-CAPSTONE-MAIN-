@@ -59,7 +59,7 @@ p {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   line-height: 1.7;
-  padding: 0.5rem 0;
+  padding: 0.2rem 0 0.5rem;
 }
 
 .top-section img {
@@ -130,6 +130,7 @@ h3 {
   font-family: "Raleway", sans-serif;
   line-height: 1.7;
   font-weight: 700;
+  font-size: 1.4rem;
 }
 
 .features-item-body {
@@ -139,8 +140,12 @@ h3 {
 /* productive-section */
 h2{
   font-family: "Raleway", sans-serif;
-  line-height: 1.7;
+  line-height: 0.5;
   font-weight: 700;
+}
+
+.prod-header-text{
+  font-size: 2.5rem;
 }
 
 .productive-section {
@@ -153,7 +158,7 @@ h2{
 }
 
 .prod-ptag{
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 
 .prod-link {

@@ -172,3 +172,51 @@ h2{
   transition: 600ms;
   border-bottom-color: white;
 }
+
+/* testimonial section */
+h4{
+  font-family: "Raleway", sans-serif;
+  line-height: 1.7;
+  font-weight: 700;
+  margin: 05px auto;
+}
+
+
+.testimonial-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.testimonial-item {
+  margin-left: 3.5rem;
+  flex-basis: 33.33%;
+  border-radius: 5px;
+  background-color: hsl(219, 30%, 18%);
+  box-shadow: 2px 2px 20px 2px hsl(216, 53%, 9%);;
+  padding: 2.5rem 2rem;
+}
+
+.testimonial-item:first-child {
+  margin-left: 0;
+}
+
+.testimonial-item-reviewer {
+  display: flex;
+  padding-top: 1rem;
+}
+
+.testimonial-item-reviewer img {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+
+.testimonial-item-reviewer-text{
+  margin-left: 1rem;
+}
+
+.testimonial-item-reviewer-text p{
+  margin: 0 auto;
+}
+

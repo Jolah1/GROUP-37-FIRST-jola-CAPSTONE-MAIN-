@@ -9,9 +9,16 @@ CAPSTONE TEAM
 
 MMERICHUKWU ANOSIKE (TEAM LEAD) ID SH-IT-0004119
 <br />
-Ganiyu Ridwan ID SH-IT-0000103
+Ganiyu Ridwan (LEAD ASSIST) ID SH-IT-0000103
 <br />
 Ugoh-Ezepue Chukwuebuka Brian ID SH-IT-0108249
+<br />
+Joy Enunwah ID SH-IT- 0013013
+<br />
+Richard Dosunmu ID SH-IT-0116413
+<br />
+Jolade Okunlade ID SH-IT-0076738
+<br />
 
 <br />
 

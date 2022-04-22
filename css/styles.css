@@ -280,3 +280,110 @@ input {
   max-width: 250px;
   margin-left: 1rem;
 }
+
+/* footer section  */
+
+.contact-section {
+  margin-top: 130px;
+  padding: 15rem 4rem 1rem;
+  display: grid;
+  background-color: hsl(216, 53%, 9%);
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, auto);
+  grid-template-areas: "logo logo logo logo" "location contacts links social" "attribution attribution attribution attribution";
+}
+
+.contact-info>div,
+.contact-info>nav {
+  padding: 1rem 2.5rem;
+}
+
+.contact-info-logo {
+  grid-area: logo;
+}
+
+.contact-info-location {
+  grid-area: location;
+}
+
+.contact-info-contacts-item,
+.contact-info-location-item {
+  display: flex;
+}
+
+footer p {
+  padding: 0;
+}
+
+.img-footer {
+  margin-right: 1rem;
+  width: 18px;
+  height: 18px;
+  line-height: 1.5;
+}
+
+.contact-text{
+  margin: 0% auto;
+}
+
+.contact-info-contacts {
+  grid-area: contacts;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact-info-contacts-item:first-child {
+  margin-bottom: 2rem;
+}
+
+.contact-info-links {
+  grid-area: links;
+  display: flex;
+  justify-content: center;
+}
+
+.contact-info-links-list:first-child {
+  margin-right: 2.5rem;
+}
+
+.contact-info-links-list li {
+  margin-bottom: 1.5rem;
+}
+
+/* social section */
+
+.contact-info-social-links {
+  display: flex;
+  justify-content: flex-end;
+  grid-area: social;
+}
+
+.contact-info-social-link-item {
+  margin-left: 1rem;
+  height: 30px;
+  width: 30px;
+  border: 1px solid hsl(0, 0%, 100%);
+  border-radius: 50%;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* collaboration section */
+
+.collaboration-container {
+  grid-area: attribution;
+}
+
+.collaboration {
+  font-size: 11px;
+  text-align: center;
+}
+
+.collaboration a {
+  color: hsl(228, 45%, 44%);
+}

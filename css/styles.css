@@ -181,7 +181,6 @@ h4{
   margin: 05px auto;
 }
 
-
 .testimonial-section {
   display: flex;
   justify-content: space-between;
@@ -193,7 +192,7 @@ h4{
   flex-basis: 33.33%;
   border-radius: 5px;
   background-color: hsl(219, 30%, 18%);
-  box-shadow: 2px 2px 20px 2px hsl(216, 53%, 9%);;
+  box-shadow: 2px 2px 20px 2px hsl(216, 53%, 9%);
   padding: 2.5rem 2rem;
 }
 
@@ -220,6 +219,21 @@ h4{
   margin: 0 auto;
 }
 
+.quote-img {
+  position: relative;
+  top: -3.5rem;
+  left: -1rem;
+  padding: 0%;
+  margin: 0%;
+}
+
+.test-p{
+  margin: auto auto 25px;
+}
+
+.test-box1-resize{
+  padding: 1rem;
+}
 /* cta section */
 
 .cta-section{

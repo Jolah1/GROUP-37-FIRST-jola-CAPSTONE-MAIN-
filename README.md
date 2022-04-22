@@ -20,25 +20,25 @@ Richard Dosunmu ID SH-IT-0116413
 Jolade Okunlade ID SH-IT-0076738
 <br />
 Mildred Erubore ID SH-IT-0014969
+<br />
+Ikeqwu Friday ID SH-IT-0049623
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/Roarnotes/GROUP-37-CAPSTONE-PROJECT">
+  <a href="https://github.com/SIDE-HUSTLE-GROUP-37-HTML-CSS-JS-TRACK/GROUP-37-FIRST-CAPSTONE-MAIN-">
     <img src="images/logo-dark.114b4a7b.png" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">
-      This is a frontend design done in fulfillment of Side Hustle requirements
-      <br />
-      <a href="https://github.com/Roarnotes/GROUP-37-CAPSTONE-PROJECT"><strong>Explore the docs »</strong></a>
-      <br />
-      <br />
-      <a href="https://roarnotes.github.io/GROUP-37-CAPSTONE-PROJECT/">View project</a>
-      ·
-      <a href="https://github.com/Roarnotes/GROUP-37-CAPSTONE-PROJECT/issues">Report Bug</a>
-      ·
-      <a href="https://github.com/Roarnotes/GROUP-37-CAPSTONE-PROJECT/issues">Request Feature</a>
-    </p>
+    This is a frontend design done in fulfillment of Side Hustle requirements
+    <br />
+    <a href="https://github.com/SIDE-HUSTLE-GROUP-37-HTML-CSS-JS-TRACK/GROUP-37-FIRST-CAPSTONE-MAIN-"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://side-hustle-group-37-html-css-js-track.github.io/GROUP-37-FIRST-CAPSTONE-MAIN-/">View project</a>
+    ·
+    <a href="https://github.com/SIDE-HUSTLE-GROUP-37-HTML-CSS-JS-TRACK/GROUP-37-FIRST-CAPSTONE-MAIN-/issues">Report Bug</a>
+  </p>
 
 </div>

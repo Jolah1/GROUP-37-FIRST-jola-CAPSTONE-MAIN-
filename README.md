@@ -27,7 +27,7 @@ Ikeqwu Friday ID SH-IT-0049623
 
 <div align="center">
   <a href="https://github.com/SIDE-HUSTLE-GROUP-37-HTML-CSS-JS-TRACK/GROUP-37-FIRST-CAPSTONE-MAIN-">
-    <img src="images/logo-dark.114b4a7b.png" alt="Logo" width="80" height="80">
+    <img src="images/logo green.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">

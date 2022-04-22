@@ -220,3 +220,41 @@ h4{
   margin: 0 auto;
 }
 
+/* cta section */
+
+.cta-section{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cta-item {
+  position: absolute;
+  top: 50px;
+  max-width: 800px;
+  width: 66.66%;
+  min-width: 300px;
+  padding: 3.5rem 3rem;
+  box-shadow: 2px 2px 30px 2px hsl(216, 53%, 9%);
+  background-color: hsl(219, 30%, 18%);
+  border-radius: 5px;
+  text-align: center;
+}
+
+.cta-form {
+  display: flex;
+  justify-content: center;
+}
+
+.input-block {
+  width: 80%;
+  max-width: 600px;
+}
+
+.btn-block {
+  width: 20%;
+  max-width: 250px;
+  margin-left: 1rem;
+}
+

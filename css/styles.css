@@ -7,6 +7,8 @@
 /* font-family: 'Open Sans', sans-serif;
 font-family: 'Raleway', sans-serif; */
 
+/* default desktop styling */
+
 body {
   background-color: hsl(218, 28%, 13%);
   color: hsl(0, 0%, 100%);
@@ -386,4 +388,14 @@ footer p {
 
 .collaboration a {
   color: hsl(228, 45%, 44%);
+}
+
+/* desktop 1440px screen size stying */
+@media (max-width: 1440px) {
+
+}
+
+/* mobile 375px screen size stying */
+@media (max-width: 375px) {
+
 }

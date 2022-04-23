@@ -390,11 +390,6 @@ footer p {
   color: hsl(228, 45%, 44%);
 }
 
-/* desktop 1440px screen size stying */
-@media (max-width: 1440px) {
-
-}
-
 /* mobile 375px screen size stying */
 @media (max-width: 375px) {
 

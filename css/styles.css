@@ -411,6 +411,7 @@ footer p {
 
 /* tablet /Ipad  screen size stying */
 @media (max-width: 1024px) {
+  /* nav and menu section */
   menu-section {
     padding: 2.5rem 2rem;
   }
@@ -419,17 +420,23 @@ footer p {
     width: 117px;
     height: auto;
   }
+
   section {
     padding: 2.5rem 2rem;
   }
+
+  /* top section */
+
   .top-section>div,
   .features-item {
     width: 100%;
   }
+
   .testimonial-section,
   .productive-section {
     flex-direction: column;
   }
+  
   /* features section */
   .features-item {
     padding: 2rem 0;
@@ -470,8 +477,7 @@ footer p {
     margin-top: 1rem;
     margin-left: 0;
   }
-
-  /* footer section */
+  /* contact section */
   .contact-section {
     padding: 20rem 3rem 1rem;
     grid-template-columns: 100%;
